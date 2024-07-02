@@ -12,3 +12,5 @@ replit.nix
 # already existing elements were commented out
 
 #/target
+
+/tui-realm
